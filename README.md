@@ -18,7 +18,8 @@ We have 3 items, So the possible combination will be 2^3 - 1 = 7
 6   1   1   0       AB
 7   1   1   1       ABC
 
-In the above table, we take 'C' for first row because 1 is present in Column for C. Similarly, we take BC in the third column because B and C has 1's in it, and so on.
+In the above table, we take 'C' for first row because 1 is present in Column for C. 
+Similarly, we take BC in the third column because B and C has 1's in it, and so on.
 
 This is pretty much how the algorith works.
 ```
